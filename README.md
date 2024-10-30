@@ -19,4 +19,7 @@ Analyze customer spending across 2023 and 2024.
 Use CTEs to make SQL code clearer.
 Visualize data in Tableau to give actionable insights.
 
+Data Visualization link:
+https://public.tableau.com/views/SampleAnnualSpendingAnalysis-Fetch/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+
 
