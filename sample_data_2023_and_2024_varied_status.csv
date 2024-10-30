@@ -1,0 +1,51 @@
+customer_id,transaction_date,dollar,product_category,location,receipt_status
+C002,2023-10-13,327,Electronics,Los Angeles,Processed
+C008,2023-02-28,138,Household,Los Angeles,Pending
+C008,2023-06-07,121,Snacks,San Francisco,Failed
+C003,2023-06-25,470,Household,Boston,Pending
+C006,2023-08-22,388,Household,Los Angeles,Pending
+C008,2023-12-09,60,Snacks,New York,Pending
+C001,2023-06-03,421,Beverages,Boston,Pending
+C007,2023-10-07,302,Snacks,Chicago,Failed
+C010,2023-12-24,268,Snacks,Chicago,Pending
+C003,2023-10-28,202,Beverages,Boston,Processed
+C010,2023-10-30,182,Household,San Francisco,Failed
+C002,2023-02-04,347,Snacks,Chicago,Processed
+C003,2023-10-29,53,Beverages,New York,Processed
+C010,2023-10-26,61,Beverages,Chicago,Pending
+C005,2023-11-11,212,Household,San Francisco,Processed
+C004,2023-08-18,226,Snacks,Chicago,Processed
+C003,2023-12-23,159,Household,Boston,Processed
+C002,2023-03-07,465,Beverages,Chicago,Pending
+C009,2023-11-01,100,Electronics,Boston,Failed
+C001,2023-04-11,409,Household,New York,Failed
+C009,2023-11-09,91,Personal Care,San Francisco,Failed
+C007,2023-12-06,124,Electronics,San Francisco,Failed
+C008,2023-02-11,220,Beverages,Boston,Pending
+C006,2023-11-13,138,Household,Chicago,Pending
+C006,2023-01-24,460,Beverages,Boston,Pending
+C001,2024-10-12,300,Personal Care,New York,Pending
+C009,2024-02-12,479,Electronics,Chicago,Pending
+C007,2024-09-25,368,Household,Chicago,Processed
+C001,2024-02-29,220,Personal Care,Los Angeles,Failed
+C009,2024-02-28,361,Electronics,Chicago,Processed
+C008,2024-03-14,416,Personal Care,Boston,Failed
+C008,2024-08-19,85,Personal Care,Los Angeles,Processed
+C005,2024-05-06,291,Household,Boston,Pending
+C008,2024-07-14,493,Beverages,Chicago,Pending
+C005,2024-05-19,480,Household,Boston,Pending
+C009,2024-06-30,87,Snacks,Boston,Failed
+C008,2024-10-18,269,Electronics,San Francisco,Failed
+C003,2024-01-28,345,Personal Care,New York,Processed
+C001,2024-12-26,52,Personal Care,Los Angeles,Failed
+C010,2024-09-30,189,Household,Los Angeles,Failed
+C001,2024-01-22,294,Snacks,Chicago,Failed
+C003,2024-09-02,106,Electronics,Boston,Pending
+C003,2024-08-14,266,Beverages,New York,Failed
+C004,2024-03-20,349,Personal Care,Los Angeles,Pending
+C007,2024-11-25,261,Personal Care,New York,Pending
+C010,2024-02-18,285,Household,San Francisco,Pending
+C005,2024-06-10,207,Household,Boston,Failed
+C001,2024-11-17,477,Personal Care,Los Angeles,Processed
+C001,2024-08-10,227,Electronics,Boston,Processed
+C004,2024-09-25,119,Electronics,San Francisco,Pending
